@@ -5,3 +5,5 @@ Created a service layer to manage ToDo items (add, update, delete, get by ID, li
 Built controller routes to handle user actions (listing, adding, editing, updating, and deleting ToDos).
 Connected the backend to HTML templates so users can interact with the app through forms and buttons.
 Enabled full CRUD functionality (Create, Read, Update, Delete) for ToDo items.
+
+![Logo](https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png)
